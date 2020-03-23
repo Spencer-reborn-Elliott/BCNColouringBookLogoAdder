@@ -1,0 +1,9 @@
+C:\Users\Spencer\source\repos\BCNColouringBookLogoAdder\bin\Debug\BCNColouringBookLogoAdder.exe
+C:\Users\Spencer\source\repos\BCNColouringBookLogoAdder\bin\Debug\BCNColouringBookLogoAdder.pdb
+C:\Users\Spencer\source\repos\BCNColouringBookLogoAdder\obj\Debug\BCNColouringBookLogoAdder.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\BCNColouringBookLogoAdder\obj\Debug\BCNColouringBookLogoAdder.Form1.resources
+C:\Users\Spencer\source\repos\BCNColouringBookLogoAdder\obj\Debug\BCNColouringBookLogoAdder.Properties.Resources.resources
+C:\Users\Spencer\source\repos\BCNColouringBookLogoAdder\obj\Debug\BCNColouringBookLogoAdder.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\BCNColouringBookLogoAdder\obj\Debug\BCNColouringBookLogoAdder.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\BCNColouringBookLogoAdder\obj\Debug\BCNColouringBookLogoAdder.exe
+C:\Users\Spencer\source\repos\BCNColouringBookLogoAdder\obj\Debug\BCNColouringBookLogoAdder.pdb
